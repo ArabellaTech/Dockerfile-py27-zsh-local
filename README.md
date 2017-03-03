@@ -1,2 +1,13 @@
-# Dockerfile-py27-zsh-local
-Dockerfile: Python 2.7 with ZSH for local development
+# py27-zsh-local
+Python 27 with ZSH for local development
+
+
+This is arabella standard image for working with py3.6 on local developer machines.
+
+Contents:
+
+* Python3.6
+* mysql-client
+* memcached
+* virtualenv
+* oh-my-zsh
