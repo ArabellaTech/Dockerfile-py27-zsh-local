@@ -6,7 +6,7 @@ This is arabella standard image for working with py3.6 on local developer machin
 
 Contents:
 
-* Python3.6
+* Python2.7
 * mysql-client
 * memcached
 * virtualenv
